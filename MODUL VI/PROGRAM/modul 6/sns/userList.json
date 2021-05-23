@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Hussain",
+        "address": "Muara Teweh",
+        "image": "https://scontent.fbdj4-1.fna.fbcdn.net/v/t1.6435-9/33720428_930391887132308_3305720032901726208_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeFYUsVPLrT-K5u3KnourENk8CkWo_9_eEvwKRaj_394Sx0LAi89ZmSF3ESLq4kwnyPP0ZBdV8rCXgOYUSlsyXKS&_nc_ohc=TZiTlfUC7UoAX_ISrjC&_nc_ht=scontent.fbdj4-1.fna&oh=c7f2591ec6c5a60f2813333eb46030ef&oe=60CCC9E4"
+    },
+
+    {
+        "name": "Aditya",
+        "address": "Palangka Raya",
+        "image": "https://scontent.fbdj4-1.fna.fbcdn.net/v/t1.18169-9/11046604_423351951175216_9211443627418782156_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=174925&_nc_eui2=AeFwhEFyNxP-9AKOAELtBTvnwap_JVkQUwHBqn8lWRBTAZsHA5b1ccPZB4BDg_JEWSiGgP6OUJzVi6CnEtKCfkge&_nc_ohc=kJu4h957KzwAX9PeXZ8&_nc_ht=scontent.fbdj4-1.fna&oh=20efd25b99a320175e6a3c3fce91d16f&oe=60CC6103"
+    },
+
+    {
+        "name": "Axel",
+        "address": "Mandomai",
+        "image": "https://scontent.fbdj4-1.fna.fbcdn.net/v/t1.18169-9/10557332_1434136983542082_4201260879085465931_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeGQR2NB-6UhWUa70_U4GlL7FCP1_PPPa8oUI_X8889ryv14J8Blj3gmx74xDR0UgGcGXVPF5apJLPjQKOjIUZMq&_nc_ohc=bZ8ZXqwI86wAX-zjNoe&_nc_ht=scontent.fbdj4-1.fna&oh=a58f4aca533f63d0af1dadb6a4d74b09&oe=60CF626E"
+    },
+
+    {
+        "name": "Brian",
+        "address": "Palangka Raya",
+        "image": "https://makassar.terkini.id/wp-content/uploads/2021/05/terkiniid_10-46-44-images-696x385.jpg"
+    },
+
+    {
+        "name": "Daffa",
+        "address": "Sampit",
+        "image": "https://scontent.fbdj4-1.fna.fbcdn.net/v/t1.6435-9/117324271_1669016776607455_5441636097119227876_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=174925&_nc_eui2=AeEVGqT5sQHtnRjVurC_EOZggiT4BzYMj1-CJPgHNgyPX6qWgNZOjLtYCjTUzbmyKZiJW9s4dVO7LY2W5p7BNh1G&_nc_ohc=Mrq-K5XKxo0AX_boVPb&_nc_oc=AQmNy6uo2gLn888sfbZoxIlRt58yzFenJ3af1BSt9gYr2U9EU7w6NGqy5QK3Ei5kLmk&_nc_ht=scontent.fbdj4-1.fna&oh=7cf4621e95dc0c6c220b979aff2e03e9&oe=60CD882B"
+    },
+
+    {
+        "name": "Erlan",
+        "address": "Mandomai",
+        "image": "https://i.pinimg.com/originals/a9/fb/e9/a9fbe9ce036b3c348becb3a65f5ac3df.jpg"
+    },
+
+    {
+        "name": "Elnatan",
+        "address": "Muara Teweh",
+        "image": "https://scontent.fbdj4-1.fna.fbcdn.net/v/t1.6435-9/64575492_2286038358315728_8965450377327542272_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=174925&_nc_eui2=AeFYQHAkUjHXH2evh98w_se5HX00IOFnVvQdfTQg4WdW9Nu0NkWk0At98pCPR7OXUwQaCB9j0ugDXAStBdNqSMI0&_nc_ohc=SwjlzxE5rh4AX8w9bNg&_nc_ht=scontent.fbdj4-1.fna&oh=36676ee1acf44adb631f17a52f8dee64&oe=60CE3B3E"
+    },
+
+    {
+        "name": "Firdaus",
+        "address": "Pulang Pisau",
+        "image": "https://scontent.fbdj4-1.fna.fbcdn.net/v/t1.6435-9/117920024_3360325884192485_4539723909764461450_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeF6HBGewYPpSwKjzajJLDp07ZE6FQkkpprtkToVCSSmmp2eegjYbxK5N3PAnyg-E_gAFbkRvmBXvBgpsj34bRsz&_nc_ohc=mD4Wa3j5jRcAX_CVdhm&_nc_ht=scontent.fbdj4-1.fna&oh=4fc78ea8c1a929a4e867057626d17499&oe=60CD939F"
+    }
+]
