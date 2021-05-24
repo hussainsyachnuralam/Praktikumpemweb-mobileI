@@ -19,3 +19,5 @@ Dalam praktikum ini, berikut adalah pokok-pokok yang dipelajari dari sumber modu
 5) Modul V, INSTALASI REACT NATIVE PADA WINDOWS. Dalam modul ini, peserta praktikum diberikan tugas untuk menginstalasi React Native pada interface ponsel Android yang dibantu dengan penggunaan Android Studio. Peserta praktikum mulai dikenalkan dengan pemrograman mobile berbasis Android pada pelaksanaan praktikum dari modul ini.
 
 6) Modul VI, SEARCH BY FLAT LIST PADA REACT NATIVE. Dalam modul ini, peserta praktikum diberikan tugas untuk membuat search list yang berdasarkan dari components atau library yang terdapat di dalam React Native, tepatnya pada bagian Native Base.
+
+7) Responsi, melakukan pembuatan web profil sederhana secara berkelompok. Dalam tugas responsi kali ini, web profil yang kelompok kami buat ialah web profil dari usaha kuliner dan kopi yakni Vaksin Coffee. Berikut ini adalah link dari web profil yang telah dibuat: https://vaksincoffee.000webhostapp.com/
